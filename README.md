@@ -1,2 +1,2 @@
 # cvDev
-using OpenCV for several applications
+Using OpenCV for several applications
