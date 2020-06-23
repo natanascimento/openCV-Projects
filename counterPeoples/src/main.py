@@ -4,7 +4,7 @@ from center import center
 
 #Capturando o vídeo
 cap = cv2.VideoCapture('videoTest.mp4')
-#Passando o valor do MOG2 
+#Passando o valor do MOG2
 fgbg = cv2.createBackgroundSubtractorMOG2()
 
 #Posição da Linha
