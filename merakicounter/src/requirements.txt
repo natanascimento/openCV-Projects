@@ -2,7 +2,7 @@ DateTime==4.3
 mysql-connector-python==8.0.20
 numpy==1.18.4
 opencv-python==4.2.0.34
-protobuf==3.12.2
+protobuf==3.18.3
 pytz==2020.1
 six==1.15.0
 zope.interface==5.1.0
