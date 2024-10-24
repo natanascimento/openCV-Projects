@@ -1,5 +1,5 @@
 DateTime==4.3
-mysql-connector-python==8.0.20
+mysql-connector-python==9.1.0
 numpy==1.18.4
 opencv-python==4.2.0.34
 protobuf==3.12.2
